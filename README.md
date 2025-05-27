@@ -31,8 +31,8 @@ A RESTful API for managing railway ticket reservations, implementing business lo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/railway-ticket-reservation.git
-cd railway-ticket-reservation
+git clone https://github.com/Muhammad-Massab/Railway-Reservation-API
+cd Railway-Reservation-API
 ```
 
 ### 2. Install dependencies
@@ -52,8 +52,8 @@ npm run dev
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/railway-ticket-reservation.git
-cd railway-ticket-reservation
+git clone https://github.com/Muhammad-Massab/Railway-Reservation-API
+cd Railway-Reservation-API
 ```
 
 ### 2. Build and start the containers
